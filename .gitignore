@@ -7,3 +7,5 @@ doc-tools
 mkrelease.sh
 release
 myredis.conf
+.clangd/
+compile_commands.json
